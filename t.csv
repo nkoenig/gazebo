@@ -1,0 +1,191 @@
+drcsim;https://bitbucket.org/osrf/drcsim;Repository for the DRC project.
+gazebo;https://bitbucket.org/osrf/gazebo;Open source robotics simulator.
+cloudsim-legacy;https://bitbucket.org/osrf/cloudsim-legacy;
+gazebo_user_guide;https://bitbucket.org/osrf/gazebo_user_guide;The Gazebo user guide
+gazebo_models;https://bitbucket.org/osrf/gazebo_models;Model database
+rosbook;https://bitbucket.org/osrf/rosbook;Code to accompany forthcoming O'Reilly book on ROS.
+gazebo-release;https://bitbucket.org/osrf/gazebo-release;Contains debian/ubuntu meta-data for creating source and binary packages.
+drcsim-release;https://bitbucket.org/osrf/drcsim-release;
+release-tools;https://bitbucket.org/osrf/release-tools;
+RTF;https://bitbucket.org/osrf/rtf;Robust, is a parameter-based robot testing framework
+sdformat;https://bitbucket.org/osrf/sdformat;Simulation Description Format (SDF) parser and description files.
+rosandroid;https://bitbucket.org/osrf/rosandroid;A place to put libraries and tools developed around the ROS/Android applications framework.
+cloudsim_user_guide;https://bitbucket.org/osrf/cloudsim_user_guide;User guide for the CloudSim software
+sandia-hand;https://bitbucket.org/osrf/sandia-hand;
+sandia-hand-release;https://bitbucket.org/osrf/sandia-hand-release;
+cloudsim-client-tools;https://bitbucket.org/osrf/cloudsim-client-tools;
+cloudsim-client-tools-release;https://bitbucket.org/osrf/cloudsim-client-tools-release;
+lapackbot-release;https://bitbucket.org/osrf/lapackbot-release;
+vrc_arenas;https://bitbucket.org/osrf/vrc_arenas;Arenas for the virtual robotics challenge
+gazebo-test-coverage;https://bitbucket.org/osrf/gazebo-test-coverage;Support to start the test coverage in gazebo
+osrf-common;https://bitbucket.org/osrf/osrf-common;
+osrf-common-release;https://bitbucket.org/osrf/osrf-common-release;
+drcsim-release-prerelease-dbg-packages;https://bitbucket.org/osrf/drcsim-release-prerelease-dbg-packages;
+gazebo-test-relocation;https://bitbucket.org/osrf/gazebo-test-relocation;
+rosjava_zeroconf;https://bitbucket.org/osrf/rosjava_zeroconf;This includes some classes for zeroconf function.
+simulator_gazebo;https://bitbucket.org/osrf/simulator_gazebo;Note:  transitional repository from the old svn repo: https://code.ros.org/svn/ros-pkg/stacks/simulator_gazebo. For ROS Hydro, please see catkinized Gazebo plugins and ROS interface code in gazebo_ros_pkgs at https://github.com/ros-simulation/gazebo_ros_pkgs, and the excellent tutorials: http://gazebosim.org/wiki/Tutorials/1.9/Installing_gazebo_ros_Packages by Dave Coleman. To use the latest Gazebo under Grooby, please consider trying out gazebo_ros_pkgs for Groovy: https://github.com/ros-simulation/gazebo_ros_pkgs/tree/groovy-devel.
+sdformat-release;https://bitbucket.org/osrf/sdformat-release;Contains debian/ubuntu meta-data for creating source and binary packages.
+cloudsim-release;https://bitbucket.org/osrf/cloudsim-release;
+bitbucket-client-tools;https://bitbucket.org/osrf/bitbucket-client-tools;Command-line tools for the bitbucket API.
+ftcsim;https://bitbucket.org/osrf/ftcsim;FIRST robotics simulation worlds, models, and ROS launch files.
+ftcsim-release;https://bitbucket.org/osrf/ftcsim-release;Release config file for ftcsim repository
+gzweb;https://bitbucket.org/osrf/gzweb;
+thepropshop;https://bitbucket.org/osrf/thepropshop;Web model database
+gazebo-current-release;https://bitbucket.org/osrf/gazebo-current-release;
+bullet-2.82-debian-release;https://bitbucket.org/osrf/bullet-2.82-debian-release;
+bitbucket-jenkins;https://bitbucket.org/osrf/bitbucket-jenkins;Integrate bitbucket events into jenkins
+disc_zmq;https://bitbucket.org/osrf/disc_zmq;Simple library (with implementations in languages of interest) to do discovery on top of zeromq messaging.  The intent is that this library would be incorporated into other projects, where things like message serialization would be added.
+gazebo2-release;https://bitbucket.org/osrf/gazebo2-release;
+rml;https://bitbucket.org/osrf/rml;Robot Markup Language (RML).
+opensplice-release;https://bitbucket.org/osrf/opensplice-release;
+cloudsimk;https://bitbucket.org/osrf/cloudsimk;
+gazebo3-release;https://bitbucket.org/osrf/gazebo3-release;
+gazebo_design;https://bitbucket.org/osrf/gazebo_design;Design documents for the Gazebo project.
+cloudsim-ed-web;https://bitbucket.org/osrf/cloudsim-ed-web;
+cloudsim-ed-actuation;https://bitbucket.org/osrf/cloudsim-ed-actuation;
+gazebo_tutorials;https://bitbucket.org/osrf/gazebo_tutorials;Tutorials for gazebo
+cloudsimi;https://bitbucket.org/osrf/cloudsimi;Software to install on CloudSim cloud simulation servers
+sdformat2-release;https://bitbucket.org/osrf/sdformat2-release;
+OculusSDK;https://bitbucket.org/osrf/oculussdk;
+gazebo_demos;https://bitbucket.org/osrf/gazebo_demos;Gazebo demos using custom models and plugins.
+multisense_ros;https://bitbucket.org/osrf/multisense_ros;
+srsim;https://bitbucket.org/osrf/srsim;for testing shadow hand object manipulation in gazebo simulation
+MENTOR2;https://bitbucket.org/osrf/mentor2;Gazebo Design Kit (GDK) for the Manufacturing Experimentation and Outreach Two (MENTOR2) Project
+gazebo4-release;https://bitbucket.org/osrf/gazebo4-release;
+haptix_api;https://bitbucket.org/osrf/haptix_api;
+haptix-comm;https://bitbucket.org/osrf/haptix-comm;C communication for the Haptix's components
+gazebojs;https://bitbucket.org/osrf/gazebojs;
+sdf_tutorials;https://bitbucket.org/osrf/sdf_tutorials;Tutorials for SDF
+handsim;https://bitbucket.org/osrf/handsim;HAPTIX Simulation Utlities
+gazebo5-release;https://bitbucket.org/osrf/gazebo5-release;
+haptix-comm-release;https://bitbucket.org/osrf/haptix-comm-release;
+handsim-release;https://bitbucket.org/osrf/handsim-release;
+haptix-tools;https://bitbucket.org/osrf/haptix-tools;Infrastructure to be installed in the team machines for the HAPTIX project.
+gazebo6-release;https://bitbucket.org/osrf/gazebo6-release;
+haptix-tools-release;https://bitbucket.org/osrf/haptix-tools-release;
+sdformat3-release;https://bitbucket.org/osrf/sdformat3-release;
+huro-cup-spring-school-2015;https://bitbucket.org/osrf/huro-cup-spring-school-2015;In preparation for http://www.fira.net/main/
+gz_leaderboard;https://bitbucket.org/osrf/gz_leaderboard;A web app that receives JSON messages from the Gazebo simulator and displays them in a leaderboard format.
+robocup3ds;https://bitbucket.org/osrf/robocup3ds;Gazebo support for the RoboCup 3D simulation league.
+swarm;https://bitbucket.org/osrf/swarm;Swarm simulation
+gazebo7-release;https://bitbucket.org/osrf/gazebo7-release;
+srcsim;https://bitbucket.org/osrf/srcsim;Space Robotics Challenge
+mentor2-release;https://bitbucket.org/osrf/mentor2-release;
+cloudsim-widgets;https://bitbucket.org/osrf/cloudsim-widgets;
+robocup3ds-release;https://bitbucket.org/osrf/robocup3ds-release;
+sdformat4-release;https://bitbucket.org/osrf/sdformat4-release;
+drcsim5-release;https://bitbucket.org/osrf/drcsim5-release;
+gazebo8-release;https://bitbucket.org/osrf/gazebo8-release;
+haptix-luke-proprietary-release;https://bitbucket.org/osrf/haptix-luke-proprietary-release;
+cloudsim-auth;https://bitbucket.org/osrf/cloudsim-auth;
+cloudsim-sim;https://bitbucket.org/osrf/cloudsim-sim;
+frc2016_competition;https://bitbucket.org/osrf/frc2016_competition;
+frc_blue_team;https://bitbucket.org/osrf/frc_blue_team;
+frc_red_team;https://bitbucket.org/osrf/frc_red_team;
+cloudsim-portal;https://bitbucket.org/osrf/cloudsim-portal;
+cloudsim-grant;https://bitbucket.org/osrf/cloudsim-grant;
+drcsim7-release;https://bitbucket.org/osrf/drcsim7-release;
+citysim;https://bitbucket.org/osrf/citysim;
+cloudsim;https://bitbucket.org/osrf/cloudsim;
+ariac-release;https://bitbucket.org/osrf/ariac-release;
+cloudsim-keys;https://bitbucket.org/osrf/cloudsim-keys;A server to distribute keys (VPN, SSH, etc) for Cloudsim
+srcsim-release;https://bitbucket.org/osrf/srcsim-release;
+manifold;https://bitbucket.org/osrf/manifold;
+cloudsim-badges;https://bitbucket.org/osrf/cloudsim-badges;
+sdformat5-release;https://bitbucket.org/osrf/sdformat5-release;
+collision_map_creator_plugin;https://bitbucket.org/osrf/collision_map_creator_plugin;
+cloudsim-integration;https://bitbucket.org/osrf/cloudsim-integration;
+sdformat6-release;https://bitbucket.org/osrf/sdformat6-release;
+srcsim_docker;https://bitbucket.org/osrf/srcsim_docker;Docker stuff for the Space Robotics Challenge.
+gazebo_experimental;https://bitbucket.org/osrf/gazebo_experimental;Repo for Gazebo 9 development. Starting from entity_component_system_prototype branch on gazebo repo. This repo will be merged back into the gazebo repo in the future.
+propshop-girder;https://bitbucket.org/osrf/propshop-girder;Data resource server
+gazebo7-ros-release;https://bitbucket.org/osrf/gazebo7-ros-release;
+gazebo9-release;https://bitbucket.org/osrf/gazebo9-release;
+vrx;https://bitbucket.org/osrf/vrx;Virtual RobotX (VRX) resources.
+servicesim;https://bitbucket.org/osrf/servicesim;Service Robot Simulator
+ariac2-release;https://bitbucket.org/osrf/ariac2-release;
+gzue4bridge;https://bitbucket.org/osrf/gzue4bridge;
+gazebodistro;https://bitbucket.org/osrf/gazebodistro;
+subt;https://bitbucket.org/osrf/subt;This repostory contains software for the virtual track of the DARPA SubT Challenge. Within this repository you will find Gazebo simulation assets, ROS interfaces, support scripts and plugins, and documentation needed to compete in the SubT Virtual Challenge.
+subt-release;https://bitbucket.org/osrf/subt-release;
+sdformat8-release;https://bitbucket.org/osrf/sdformat8-release;
+mesh_to_sdf;https://bitbucket.org/osrf/mesh_to_sdf;
+subt_seed;https://bitbucket.org/osrf/subt_seed;SubT virtual test bed seed repository.
+vmrc-docker;https://bitbucket.org/osrf/vmrc-docker;
+gazebo10-release;https://bitbucket.org/osrf/gazebo10-release;
+vmrc;https://bitbucket.org/osrf/vmrc;
+ariac3-release;https://bitbucket.org/osrf/ariac3-release;Release repository for 2019 ariac competition
+ros1_ign_bridge-release;https://bitbucket.org/osrf/ros1_ign_bridge-release;
+vrx-docker;https://bitbucket.org/osrf/vrx-docker;Containerization of VRX competition server and competitors' code. See https://bitbucket.org/osrf/vrx/wiki/Home
+vrx-events;https://bitbucket.org/osrf/vrx-events;Repository containing team submissions for VRX events.
+ign-math;https://bitbucket.org/ignitionrobotics/ign-math;Ignition math library is a general purpose math library for robot applications.
+ign-transport;https://bitbucket.org/ignitionrobotics/ign-transport;Transport library for component communication based on publication/subscription and service calls.
+ign-msgs-release;https://bitbucket.org/ignitionrobotics/ign-msgs-release;
+ign_cloud_mining_seed;https://bitbucket.org/ignitionrobotics/ign_cloud_mining_seed;A bootstrap repository for data mining using gazebo and cloudsim.
+ign-math-release;https://bitbucket.org/ignitionrobotics/ign-math-release;
+ign-msgs;https://bitbucket.org/ignitionrobotics/ign-msgs;Protobuf messages
+ign-transport-release;https://bitbucket.org/ignitionrobotics/ign-transport-release;
+ign-common;https://bitbucket.org/ignitionrobotics/ign-common;Ignition Common is a component in the ignition framework, a set  of libraries designed to rapidly develop robot applications.
+ign-tools;https://bitbucket.org/ignitionrobotics/ign-tools;Command line tools for the ignition libraries
+ign-rendering;https://bitbucket.org/ignitionrobotics/ign-rendering;
+ign-fuelserver;https://bitbucket.org/ignitionrobotics/ign-fuelserver;Backend to Ignition Fuel
+ign-common-release;https://bitbucket.org/ignitionrobotics/ign-common-release;
+ign-transport2-release;https://bitbucket.org/ignitionrobotics/ign-transport2-release;
+ign-transport3-release;https://bitbucket.org/ignitionrobotics/ign-transport3-release;
+ign-core;https://bitbucket.org/ignitionrobotics/ign-core;
+ign-math3-release;https://bitbucket.org/ignitionrobotics/ign-math3-release;
+ign-gui;https://bitbucket.org/ignitionrobotics/ign-gui;
+ign-launch;https://bitbucket.org/ignitionrobotics/ign-launch;Run and manage programs and plugins.
+ign-rndf;https://bitbucket.org/ignitionrobotics/ign-rndf;An RNDF parser.
+ign-rndf-release;https://bitbucket.org/ignitionrobotics/ign-rndf-release;
+ign-fuel-tools;https://bitbucket.org/ignitionrobotics/ign-fuel-tools;
+ign-sensors;https://bitbucket.org/ignitionrobotics/ign-sensors;Sensor library
+ign-physics;https://bitbucket.org/ignitionrobotics/ign-physics;
+ign-go;https://bitbucket.org/ignitionrobotics/ign-go;A general purpose golang webserver.
+ign-cmake;https://bitbucket.org/ignitionrobotics/ign-cmake;
+ign-msgs1-release;https://bitbucket.org/ignitionrobotics/ign-msgs1-release;
+ign-math4-release;https://bitbucket.org/ignitionrobotics/ign-math4-release;
+ign-cmake-release;https://bitbucket.org/ignitionrobotics/ign-cmake-release;
+ign-msgs0-release;https://bitbucket.org/ignitionrobotics/ign-msgs0-release;
+ign-fuel-tools-release;https://bitbucket.org/ignitionrobotics/ign-fuel-tools-release;
+ign-transport4-release;https://bitbucket.org/ignitionrobotics/ign-transport4-release;
+ign-go1;https://bitbucket.org/ignitionrobotics/ign-go1;
+ign-tools-release;https://bitbucket.org/ignitionrobotics/ign-tools-release;
+ign-plugin;https://bitbucket.org/ignitionrobotics/ign-plugin;
+ign-gazebo;https://bitbucket.org/ignitionrobotics/ign-gazebo;Ignition Gazebo is the leading open source robotics simulator. Through Ignition Gazebo users have access to high fidelity physics, rendering, and sensor models. Additionally, users and developers have multiple points of entry to simulation including a graphical user interface, plugins, and asynchronous message passing and services.    Ignition Gazebo is derived from Gazebo, and represents over 16 years of development and experience in robotics and simulation. This library is part of the Ignition Robotics project.
+ign-cmake1-release;https://bitbucket.org/ignitionrobotics/ign-cmake1-release;
+ign-math5-release;https://bitbucket.org/ignitionrobotics/ign-math5-release;
+ign-msgs2-release;https://bitbucket.org/ignitionrobotics/ign-msgs2-release;
+ign-common2-release;https://bitbucket.org/ignitionrobotics/ign-common2-release;
+ign-transport5-release;https://bitbucket.org/ignitionrobotics/ign-transport5-release;
+ign-cmake2-release;https://bitbucket.org/ignitionrobotics/ign-cmake2-release;
+ign-math6-release;https://bitbucket.org/ignitionrobotics/ign-math6-release;
+ign-msgs3-release;https://bitbucket.org/ignitionrobotics/ign-msgs3-release;
+ign-transport6-release;https://bitbucket.org/ignitionrobotics/ign-transport6-release;
+ign-plugin-release;https://bitbucket.org/ignitionrobotics/ign-plugin-release;
+ign-common3-release;https://bitbucket.org/ignitionrobotics/ign-common3-release;
+ign-rendering-release;https://bitbucket.org/ignitionrobotics/ign-rendering-release;
+ign-sensors-release;https://bitbucket.org/ignitionrobotics/ign-sensors-release;
+ign-physics-release;https://bitbucket.org/ignitionrobotics/ign-physics-release;
+ign-gui-release;https://bitbucket.org/ignitionrobotics/ign-gui-release;
+ign-gazebo-release;https://bitbucket.org/ignitionrobotics/ign-gazebo-release;
+ign-plugin0-release;https://bitbucket.org/ignitionrobotics/ign-plugin0-release;
+web-cloudsim;https://bitbucket.org/ignitionrobotics/web-cloudsim;
+web-app;https://bitbucket.org/ignitionrobotics/web-app;
+docs;https://bitbucket.org/ignitionrobotics/docs;
+ign-fuel-tools2-release;https://bitbucket.org/ignitionrobotics/ign-fuel-tools2-release;
+ign-fuel-tools3-release;https://bitbucket.org/ignitionrobotics/ign-fuel-tools3-release;
+ign-plugins-release;https://bitbucket.org/ignitionrobotics/ign-plugins-release;
+ign-launch-release;https://bitbucket.org/ignitionrobotics/ign-launch-release;
+ign-acropolis-release;https://bitbucket.org/ignitionrobotics/ign-acropolis-release;
+ign-acropolis;https://bitbucket.org/ignitionrobotics/ign-acropolis;
+ign-rendering0-release;https://bitbucket.org/ignitionrobotics/ign-rendering0-release;
+ign-gui0-release;https://bitbucket.org/ignitionrobotics/ign-gui0-release;
+ign-transport7-release;https://bitbucket.org/ignitionrobotics/ign-transport7-release;
+ign-sensors2-release;https://bitbucket.org/ignitionrobotics/ign-sensors2-release;
+ign-rendering2-release;https://bitbucket.org/ignitionrobotics/ign-rendering2-release;
+ign-gazebo2-release;https://bitbucket.org/ignitionrobotics/ign-gazebo2-release;
+ign-msgs4-release;https://bitbucket.org/ignitionrobotics/ign-msgs4-release;
+ign-gui2-release;https://bitbucket.org/ignitionrobotics/ign-gui2-release;
+ign-blueprint;https://bitbucket.org/ignitionrobotics/ign-blueprint;
+ign-blueprint-release;https://bitbucket.org/ignitionrobotics/ign-blueprint-release;
